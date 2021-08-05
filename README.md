@@ -6,7 +6,8 @@
 Tải và cài đặt Python 3 từ trang [web](https://www.python.org/)
 
 ### Tải thư viện OpenNMT
-Vào link [github](https://github.com/OpenNMT/OpenNMT-py/tree/legacy) của OpenNMT bản legacy, tải về và cài đặt theo hướng dẫn
+Vào link [github](https://github.com/OpenNMT/OpenNMT-py/tree/legacy) của OpenNMT bản legacy, tải về và cài đặt theo hướng dẫn.
+
 Nếu OpenNMT báo lỗi, cài thêm các thư viện sau:
 ```
 pip install torchaudio==0.6.0
