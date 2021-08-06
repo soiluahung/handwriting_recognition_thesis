@@ -26,3 +26,9 @@ Sau đó để file mô hình ở thư mục chứa file chạy phần mềm
 
 ### Nhận diện chữ viết tay
 ![Nhận diện chữ viết tay](https://github.com/soiluahung/handwriting_recognition_thesis/blob/main/readme/mockup_one.png)
+
+## Demo
+
+[Link nhận diện trên tập ảnh test](https://youtu.be/odQlA9J7kTc)
+
+[Link nhận diện trên file pdf](https://youtu.be/HQOG-r7jzO0)
